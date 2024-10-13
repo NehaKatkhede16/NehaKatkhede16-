@@ -1,4 +1,4 @@
-# NehaKatkhede16-
+# NehaKatkhede16/README.md
 # 💫 Hey There..
 🔭 I’m currently working on JS, React.js and Node.js<br><br>🌱 I’m currently learning MERN Stack and Django-flask<br><br>👯 I’m looking to collaborate on Open Source, let's connect if you have exciting opportunities.<br><br>🤝 I’m looking for help with Content Writer with deep Passion of SEO.<br><br>👨‍💻 Passionate about Up till now i have explored Data science and machine learning also looking for Next!<br><br>📫 How to reach me nehakatkhede@gmail.com
 
